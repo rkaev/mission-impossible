@@ -3,7 +3,17 @@
  
 Once upon a time on one of the vessel. There was mighty crew with big stomachs and chef has accidentally locked refrigerator by the password and gracefully forgot it.
 Your goal is to crack within 60 minutes refrigerator doorlock and save crew's stomachs.
- 
+
+##Before we begin
+
+###Requirements
+
+- Clone project from github (https://github.com/Sender7/mission-impossible)
+- Python 3.5 or later 
+- PyCharm or any other IDE for Python
+- Run command in Terminal or Command line inside project folder "*pip install -r requirements.txt*
+"
+
 ## Quest 1
 
 The 1st engineer remembers that first password number has been missing somewhere in the calculations. Your goal is to simulate integer arithmetic overflow and retrieve the phrase to execute. In order to do that you have to post request to url  with 
