@@ -9,6 +9,7 @@ Your goal is to crack within 60 minutes refrigerator doorlock and save crew's st
 The 1st engineer remembers that first password number has been missing somewhere in the calculations. Your goal is to simulate integer arithmetic overflow and retrieve the phrase to execute. In order to do that you have to post request to url  with 
 
 Url: /api/v1/calculator
+* In the file by parameter name QUEST_1_URL_CALCULATOR *
 
 Body:
 { a: 1, b: 1 }
@@ -27,7 +28,9 @@ The scientists were smart and masked it into under the special algorithm:
 4. Sum all results from the previous step
 4. Take modulus of 8 from the sum of values from previous step
 
-*Hint use ASCII table to find proper characte [http://asciiset.com/]*
+**Hints:** 
+Use ASCII table to find proper characte [http://asciiset.com/]
+Url for the first webpage content can be found in python file  QUEST_2_FIRST_WEB_PAGE_URL
 
 ## Quest 3 
 
@@ -35,11 +38,12 @@ The crew was so happy that have been able to find the 3 digit of the password an
 
 The intendant of the ship has started reviewing documents on his table. He found the clue in the document. It came out that in one file with special web encoding has been stored 4th digit. The 4th digit has been stored on a new line after the phrase "I need this key". 
 
-*The encoding widely used in the web starts with "base" and there are 2 digits.*
+**Hint:** The encoding widely used in the web starts with "base" and there are 2 digits.
 
 ## Quest 4
 
-After finding the 4th digit in the position. It has came out that crew got no anymore clues to find the 2nd digit. One member of the crew has told that there is an option, but requested you to guess what option it is.
+After finding the 4th digit in the position. It came out that crew had no anymore clues to find the last digit. One member of the crew has told that there is an option, which require to try different variants.
+ 
+**Hint:** The doorlock url is https://missionimpossible.appspot.com/api/doorlock?code= and HTTP Request Get method
 
-The doorlock url api/v1/doorlock?code= Enter password
 
