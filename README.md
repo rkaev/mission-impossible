@@ -1,4 +1,4 @@
-# Mission is impossible, but coding is possible  
+# Mission impossible, but coding is possible  
 
  
 Once upon a time on one of the vessel. There was mighty crew with big stomachs and chef has accidentally locked refrigerator by the password and gracefully forgot it.
