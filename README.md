@@ -23,8 +23,9 @@ The scientists were smart and masked it into under the special algorithm:
 
 1. Required to read all characters of the page
 2. Count occurence of 3 characters ["s", "e", "a" ]
-3. After counting every character separately multiply every character count on representation of the character symbol in byte value (e.g. "s" = 115)
-4. After that from found value should be taken modulus of 8
+3. Multiply every character occurence on representation of the character symbol in byte value (e.g. "s" = 115)
+4. Sum all results from the previous step
+4. Take modulus of 8 from the sum of values from previous step
 
 *Hint use ASCII table to find proper characte [http://asciiset.com/]
 
