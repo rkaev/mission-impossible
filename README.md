@@ -4,9 +4,9 @@
 Once upon a time on one of the vessel. There was mighty crew with big stomachs and chef has accidentally locked refrigerator by the password and gracefully forgot it.
 Your goal is to crack within 60 minutes refrigerator doorlock and save crew's stomachs.
 
-##Before we begin
+## Before we begin
 
-###Requirements
+### Requirements:
 
 - Clone project from github (https://github.com/Sender7/mission-impossible)
 - Python 3.5 or later 
