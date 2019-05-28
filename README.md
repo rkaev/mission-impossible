@@ -27,15 +27,15 @@ The scientists were smart and masked it into under the special algorithm:
 4. Sum all results from the previous step
 4. Take modulus of 8 from the sum of values from previous step
 
-*Hint use ASCII table to find proper characte [http://asciiset.com/]
+*Hint use ASCII table to find proper characte [http://asciiset.com/]*
 
 ## Quest 3 
 
-The crew was so happy that have been able to find the 3 digit of the password and started guessing the password. And entering different combination for the doorlock. The response was slow from the doorlock and it took for every request to respond at least 10 seconds.Thus it would take much time to guess. 
+The crew was so happy that have been able to find the 3 digit of the password and started guessing the password. And entering different combination for the doorlock. The response was slow from the doorlock and it took for every request to respond at least 10 seconds.Thus brute force guessing would take much time. 
 
-The intendant of the ship has started reviewing documents on his table to find the clue in the document. It has come out that in one file with special web encoding. Has been stored file, which should contain after the message "I need this key". After this phrase on next line is hidden 4th digit. 
+The intendant of the ship has started reviewing documents on his table. He found the clue in the document. It came out that in one file with special web encoding has been stored 4th digit. The 4th digit has been stored on a new line after the phrase "I need this key". 
 
-The encoding widely used in the web starts with "base" and there are 2 digits.
+*The encoding widely used in the web starts with "base" and there are 2 digits.*
 
 ## Quest 4
 
