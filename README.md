@@ -17,13 +17,13 @@ After you receive the overflow you have to execute method with specific code phr
 
 ## Quest 2
 
-After retrieving successfully from calculations the first digit. The captain has called to memory that the third digit of the password can be found in the history of web. Long time ago in 1989 when the web was only in Universty of CERN and available for few scientists has been in the content of the page has been hidden the 3rd digit of the password. 
+After retrieving successfully from calculations the first digit. The captain has called to memory that the third digit of the password can be found in the history of web. Long time ago in 1989 when the web was only in Universty of CERN and available for few scientists. Scientists has hidden in the content of the page the 3rd digit of the password. 
 
-The scientists were trickky and masked it into under the special algorithm:
+The scientists were smart and masked it into under the special algorithm:
 
-1. Required to read all characters of the first page 
+1. Required to read all characters of the page
 2. Count occurence of 3 characters ["s", "e", "a" ]
-3. After counting every character separately multiply every on  representation of the character in byte value (e.g. "s" = 115)
+3. After counting every character separately multiply every character count on representation of the character symbol in byte value (e.g. "s" = 115)
 4. After that from found value should be taken modulus of 8
 
 *Hint use ASCII table to find proper characte [http://asciiset.com/]
