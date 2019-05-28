@@ -38,4 +38,7 @@ The encoding widely used in the web starts with "base" and there are 2 digits.
 
 ## Quest 4
 
-After finding the 4th digit in the position. The crew has bec
+After finding the 4th digit in the position. It has came out that crew got no anymore clues to find the 2nd digit. One member of the crew has told that there is an option, but requested you to guess what option it is.
+
+The doorlock url api/v1/doorlock?code= Enter password
+
