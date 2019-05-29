@@ -24,6 +24,9 @@ Body:
 { a: 1, b: 1 }
 
 After you receive the overflow you have to execute method with specific code phrase in MissionImpossible.py file
+ 
+**Hints**
+- Read datatypes and find Integer value limits http://www.tutorialtpoint.net/2015/10/java-primitive-and-non-primitive-data-types.html
 
 ## Quest 2
 
