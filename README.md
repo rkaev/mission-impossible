@@ -43,9 +43,9 @@ Url for the first webpage content can be found in python file  QUEST_2_FIRST_WEB
 
 ## Quest 3 
 
-The crew was so happy that have been able to find the 3rd digit of the password and started guessing the password. Crew started entering different combinations for the doorlock. The response was slow from the doorlock and it took for every request to respond at least 10 seconds.Thus, brute force is not an option. 
+The crew was so happy that have been able to find the 4th digit of the password and started guessing the password. Crew started entering different combinations for the doorlock. The response was slow from the doorlock and it took for every request to respond at least 10 seconds.Thus, brute force is not an option. 
 
-The intendant of the ship has started reviewing documents on his table. He found the clue that in one of the document there is hidden sign for the 4th digit. The file is encoded with special from binary to text encoding, which is widely used nowadays. The  4th digit  is stored on a new line after the phrase "I need this key". 
+The intendant of the ship has started reviewing documents on his table. He found the clue that in one of the document there is hidden sign for the 3rd digit. The file is encoded with special from binary to text encoding, which is widely used nowadays. The  3rd digit  is stored on a new line after the phrase "I need this key". 
 
 **Hint:** 
 - The encoding widely used in the web starts with "base" 
@@ -53,7 +53,7 @@ The intendant of the ship has started reviewing documents on his table. He found
 
 ## Quest 4
 
-After finding the 4th digit it came out that crew had no anymore clues to find the last digit. One member of the crew has told that there is an option, which require to try different variants.
+After finding the 3rd digit it came out that crew had no anymore clues to find the last digit. One member of the crew has told that there is an option, which require to try different variants.
  
 **Hint:** The doorlock url is https://missionimpossible.appspot.com/api/doorlock?code= and HTTP Request Get method
 
