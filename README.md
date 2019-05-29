@@ -1,8 +1,7 @@
 # Mission impossible, but coding is  
 
  
-Once upon a time on one of the vessel. There was mighty crew with big stomachs and chef has accidentally locked refrigerator by the password and gracefully forgot it.
-Your goal is to crack within 60 minutes refrigerator doorlock and save crew's stomachs.
+Once upon a time on one of the vessel. There was a mighty crew with big stomachs. Chef has accidentally locked refrigerator. Chef has gracefully forgot the password. In order to avoid riots on the vessel. The crew needs your help to solve the maze and open the refrigerator doorlock. Your goal is to solve this maze within 60 minutes and save crew's stomachs.
 
 ## Before we begin
 
