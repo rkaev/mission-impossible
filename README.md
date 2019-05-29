@@ -30,7 +30,7 @@ After you receive the overflow you have to execute method with specific code phr
 
 ## Quest 2
 
-After retrieving successfully from calculations the first digit. The captain has called to memory that the third digit of the password can be found in the history of web.Exactly in the first web page. This was long time ago in 1989 when the web was only in Universty of CERN and available for few scientists. Scientists has hidden in the content of the page the 3rd digit of the password and doesn't remember what is the number but remembers the algorithm. 
+After retrieving successfully from calculations the first digit. The captain has called to memory that the 4th digit of the password can be found in the history of web.Exactly in the first web page. This was long time ago in 1989 when the web was only in Universty of CERN and available for few scientists. Scientists has hidden in the content of the page the 3rd digit of the password and doesn't remember what is the number but remembers the algorithm. 
 
 The scientists were smart and masked it into under the special algorithm:
 
